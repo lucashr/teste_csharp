@@ -1,0 +1,10 @@
+E:\Logger_2\Logger_2\bin\Debug\Logger_2.exe.config
+E:\Logger_2\Logger_2\bin\Debug\Logger_2.exe
+E:\Logger_2\Logger_2\bin\Debug\Logger_2.pdb
+E:\Logger_2\Logger_2\obj\Debug\Logger_2.csprojAssemblyReference.cache
+E:\Logger_2\Logger_2\obj\Debug\Logger_2.Form1.resources
+E:\Logger_2\Logger_2\obj\Debug\Logger_2.Properties.Resources.resources
+E:\Logger_2\Logger_2\obj\Debug\Logger_2.csproj.GenerateResource.cache
+E:\Logger_2\Logger_2\obj\Debug\Logger_2.csproj.CoreCompileInputs.cache
+E:\Logger_2\Logger_2\obj\Debug\Logger_2.exe
+E:\Logger_2\Logger_2\obj\Debug\Logger_2.pdb
